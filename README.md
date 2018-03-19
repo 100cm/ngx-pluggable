@@ -5,6 +5,10 @@
 
 将编译好的angular 单文件组件以插件化形式加载进我们的项目中
 
+## Install
+
+`npm install ngx-pluggable
+`
 
 ##usage
 
